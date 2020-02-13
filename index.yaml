@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   dotnet-hello-world:
   - apiVersion: v1
-    created: "2020-02-13T22:22:50.431079+01:00"
-    digest: 6ce911512ab7dc2aa3dd4290490dd1dbaac771c14d56ca25a1b08b5bddd96dc7
+    created: "2020-02-13T23:01:11.167828+01:00"
+    digest: 1828afcbfa8b7f9b2f73b21e6a91f9621cb711280433a6960d695aa215e5fed8
     name: dotnet-hello-world
     urls:
     - https://momo3038.github.io/helm-repo/dotnet-hello-world-1.0.0.tgz
     version: 1.0.0
-generated: "2020-02-13T22:22:50.430154+01:00"
+generated: "2020-02-13T23:01:11.167363+01:00"
